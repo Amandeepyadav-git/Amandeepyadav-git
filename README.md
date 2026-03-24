@@ -1,6 +1,6 @@
 # 💫 About Me:
-🏆I can code in JS & learning JAVA<br>🔭 I'm currently learning Full-stack web development<br> 🧑‍💻Basic knowledge of python 🐍
-<br>🏃I'm looking to collaborate on startups<br>🤝 I'm looking for teams to work and learn together<br>💬 Wanna know more? IG-@WebwithAman<br>
+🏆MERN Stack Developer<br>🔭 I'm currently doing DSA in JAVA<br> 🧑‍💻Basic knowledge of python 🐍
+<br>🏃I'm looking to collaborate on startups<br>🤝 I'm looking for teams to work and learn together<br>💬 Wanna know more? IG-@createdbyamandeep<br>
 
 
 ## 🌐 Socials:
